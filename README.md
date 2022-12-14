@@ -8,8 +8,7 @@ git ignore to work, so I manually added the folders that I did not want to
 be ignored into the Resurrection branch. If you are reading this Prate, I swear 
 that Sam did actually do her fair share of the project, we just had to make
 a new repo because the other one was giving us trouble and not letting either
-of us upload anything :). Also, ignore the build that's in this repo, it is broken
-please use the build in the zip file in canvas.
+of us upload anything :). 
 
 /*
  Full name: Samantha Mondragon, Briana Craig 
